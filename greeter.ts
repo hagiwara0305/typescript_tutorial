@@ -1,6 +1,6 @@
 // 変数に型を与えて宣言。
 var onigiri: string = 'onigiri', // String型
-    calories: number = 200;  // Number型
+    calories: number = 'test';  // Number型
 
 // 関数の仮引数にも受け入れる型を定義。
 // {}の前にあるstringは関数の返す値の型を定義している。
